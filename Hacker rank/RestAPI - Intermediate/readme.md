@@ -4,4 +4,3 @@ This repository includes solutions for Hackerrank's Intermediate Rest API soltui
 
 * [REST API: Total Goals by a Team](/RestAPI%20-%20Intermediate/getTotalGoals.js)
 * [REST API: Number of Drawn Matches](/RestAPI%20-%20Intermediate/getNumDraws.js)
-
